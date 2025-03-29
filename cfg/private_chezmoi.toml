@@ -1,0 +1,7 @@
+encryption = "gpg"
+[gpg]
+  recipients = ["1B472A91DAB6D017025641FEC06409E307F29A13", "F55F0388400CDCB15D84641FE60E363652E3EC66"]
+  args = ["--quiet"]
+[git]
+    autoCommit = true
+    autoPush = true
