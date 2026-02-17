@@ -1,1 +1,3 @@
-
+{{- if eq .chezmoi.hostname "helio-work-laptop-3" }}
+wallpapers/fcs/**
+{{- end }}
