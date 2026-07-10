@@ -1,0 +1,3 @@
+[submodule "wallpapers/fcs-new"]
+	path = wallpapers/fcs-new
+	url = git@github.com:heliocentric/fcs.git
